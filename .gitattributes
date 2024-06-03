@@ -1,0 +1,2 @@
+Puzzle_Solver/puzzle2.db filter=lfs diff=lfs merge=lfs -text
+Model_reconstitution/model5.pth filter=lfs diff=lfs merge=lfs -text
